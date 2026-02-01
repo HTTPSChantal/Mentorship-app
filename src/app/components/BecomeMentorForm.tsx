@@ -27,7 +27,8 @@ export default function BecomeMentorForm({ onBack }: BecomeMentorFormProps) {
     industry: '',
     yearsOfExperience: '',
     
-    // Expertise & Mentorship
+    // Expertise 
+    // Mentorship
     category: '',
     expertise: '',
     bio: '',
